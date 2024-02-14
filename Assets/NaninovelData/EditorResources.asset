@@ -166,3 +166,27 @@ MonoBehaviour:
     - name: ToastUI
       pathPrefix: UI
       guid: dd85ce99288c2f8488447fa511b1c0d6
+  - Id: Characters/a3d1a417-8835-4337-8a9e-0eda0926cb2b
+    Resources: []
+  - Id: Scripts
+    Resources:
+    - name: Script_001
+      pathPrefix: Scripts
+      guid: a5740f1fb00278e489a51f9c0ee289f8
+  - Id: Characters/33f49274-7019-4fa9-8ba8-ab136fc7fb0d
+    Resources:
+    - name: Normal
+      pathPrefix: Characters/Kevin
+      guid: e51f2b4afd5491c4db68fa52ca77832e
+    - name: Angry
+      pathPrefix: Characters/Kevin
+      guid: ecfb10f29db1f704ba36d0ea866952bf
+    - name: Embarrassed
+      pathPrefix: Characters/Kevin
+      guid: 6b846cd94944d5b47bb8ab3e5262773c
+    - name: Happy
+      pathPrefix: Characters/Kevin
+      guid: a70d48362b4bf0542bc6301429eb40a4
+    - name: Relaxed
+      pathPrefix: Characters/Kevin
+      guid: 634a682fced7227418feb08c88aa0749

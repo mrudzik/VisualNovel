@@ -1,0 +1,19 @@
+Damn, my head hurts.
+Can't remember anything from last night.
+; Allow user to enter an arbitrary text and assign it to `name` variable.
+@input G_Name summary:"Choose your name."
+; Stop is required to halt script execution until user submits the input.
+@stop
+
+
+
+@char Kevin.Angry
+Kevin.Angry: Hey, yo whatch out where you going.
+Kevin.Normal: Oh, that's you {G_Name}
+Kevin.Normal: See ya
+
+
+
+@hide Kevin
+
+@stop
